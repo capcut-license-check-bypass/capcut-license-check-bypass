@@ -1,0 +1,1 @@
+# capcut-license-check-bypass
